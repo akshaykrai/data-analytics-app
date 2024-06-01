@@ -1,0 +1,7 @@
+duckdb==0.10.3
+streamlit==1.35.0
+ipython
+ipykernel
+ipython-sql
+jupysql
+duckdb-engine
